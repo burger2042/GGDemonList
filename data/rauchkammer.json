@@ -1,0 +1,24 @@
+{
+    "id": ,
+    "name": "146399247",
+    "author": "Devilmine",
+    "creators": ["Devilmine"],
+    "verifier": "XyX",
+    "verification": "https://www.youtube.com/watch?v=n9KoxVadSVg",
+    "percentToQualify": "63",
+    "password": "",
+    "records": [
+        {
+            "user": "Ice_Banana",
+            "link": "https://www.youtube.com/watch?v=rds1n9kW8a0",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "burger2042",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
