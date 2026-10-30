@@ -1,0 +1,24 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": ["Sillow"],
+    "verifier": "Mono",
+    "verification": "https://www.youtube.com/watch?v=rqq2GzMexeY",
+    "percentToQualify": "43",
+    "password": "",
+    "records": [
+        {
+            "user": "Ice_Banana",
+            "link": "https://www.youtube.com/watch?v=D4Q94TliTVQ",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "XyX",
+            "link": "https://www.youtube.com/watch?v=C8KsqB3jCFE",
+            "percent": 100,
+            "hz": 1
+        }
+    ]
+}
