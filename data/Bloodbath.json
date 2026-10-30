@@ -1,0 +1,24 @@
+{
+    "id": 10565740,
+    "name": "Bloodbath",
+    "author": "Riot",
+    "creators": ["Asonicmen","Evasium","Crack","Riot","GgB0y","Michigun","Etzer","Giron","Havok","weoweoteo","Vermillion"],
+    "verifier": "Unknown",
+    "verification": "https://www.youtube.com/watch?v=boHe2FVuSE0",
+    "percentToQualify": "54",
+    "password": "",
+    "records": [
+        {
+            "user": "Ice_Banana",
+            "link": "https://www.youtube.com/watch?v=UJXoLkiCElk",
+            "percent": 100,
+            "hz": 280
+        },
+        {
+            "user": "XyX",
+            "link": "https://www.youtube.com/watch?v=4kLDf7wVzXY",
+            "percent": 100,
+            "hz": idk
+        }
+    ]
+}
