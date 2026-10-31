@@ -5,7 +5,7 @@
     "creators": ["Noobas"],
     "verifier": "Unknown",
     "verification": "https://www.youtube.com/watch?v=F-j24Gq8wQs",
-    "percentToQualify": "50",
+    "percentToQualify": "40",
     "password": "895562",
     "records": [
         {
@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=rDM2ckH3F24",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Mono",
+            "link": "https://www.youtube.com/watch?v=Toa7g18Tk4U",
+            "percent": 47,
+            "hz": 180
         }
     ]
 }
