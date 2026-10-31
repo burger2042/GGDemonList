@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "test",
+    "author": "1",
+    "creators": ["1"],
+    "verifier": "1",
+    "verification": "google.com",
+    "percentToQualify": "1",
+    "password": "",
+    "records": [
+    ]
+}
