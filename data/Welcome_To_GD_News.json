@@ -9,16 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "burger2042",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Washed",
             "link": "https://medal.tv/games/geometry-dash/clips/nPV23iHPFmaaGWN1L?invite=cr-MSw4eDksMjUyNzU1Mzk2",
             "percent": 77,
             "hz": 1
-        },
-        {
-            "user": "burger2042",
-            "link": "",
-            "percent": 61,
-            "hz": 240
         }
     ]
 }
