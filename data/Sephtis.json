@@ -3,16 +3,10 @@
     "name": "Sephtis",
     "author": "deThe",
     "creators": ["Khelado","Lenzelium","DiamondSkull","AVRG","Gmoney03","Athralym10","Zetalock","Cantis","Frozn","Inex","Zyunic","lGenoxide","Miki","7tash","deThe","Lexoop","MazZedy"],
-    "verifier": "The Glungster",
+    "verifier": "burger2042",
     "verification": "",
     "percentToQualify": "54",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "burger2042",
-            "link": "",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
