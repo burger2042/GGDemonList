@@ -1,0 +1,18 @@
+{
+    "id": 38235367,
+    "name": "Quantum Processing",
+    "author": "Riot",
+    "creators": ["Riot","Zobros","RobTop","Sil3nce"],
+    "verifier": "Bon",
+    "verification": "https://youtu.be/QpMXidVTAjc?list=PLX1oZyi3X0wCltdc7uk4vumvIg-MTISRD",
+    "percentToQualify": "58",
+    "password": "",
+    "records": [
+        {
+            "user": "Ice_Banana",
+            "link": "",
+            "percent": 70,
+            "hz": 280
+        }
+    ]
+}
