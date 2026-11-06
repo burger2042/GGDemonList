@@ -3,10 +3,16 @@
     "name": "Nhelv",
     "author": "SrGuillester",
     "creators": ["SrGuillester", "Notlsa", "Dienid"],
-    "verifier": "burger2042",
-    "verification": "https://youtu.be/sFRri3pd0GE",
+    "verifier": "Bon",
+    "verification": "https://youtu.be/np_OY08V4Dg?list=PLX1oZyi3X0wCltdc7uk4vumvIg-MTISRD",
     "percentToQualify": 57,
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "burger2042",
+            "link": "https://youtu.be/sFRri3pd0GE",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }
