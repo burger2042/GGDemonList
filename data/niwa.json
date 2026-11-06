@@ -9,6 +9,12 @@
     "password": "Free To Copy",
     "records": [
         {
+            "user": "Bon",
+            "link": "https://youtu.be/9iQwSfd8p3w?list=PLX1oZyi3X0wCltdc7uk4vumvIg-MTISRD",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "Washed",
             "link": "https://www.youtube.com/watch?v=NXoyv9YIMPY",
             "percent": 100,
