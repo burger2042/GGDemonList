@@ -8,5 +8,11 @@
     "percentToQualify": "46",
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "Bon",
+            "link": "https://youtu.be/AViWo29VSss?list=PLX1oZyi3X0wCltdc7uk4vumvIg-MTISRD",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
