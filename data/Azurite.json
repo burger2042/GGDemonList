@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=C8KsqB3jCFE",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Washed",
+            "link": "https://www.youtube.com/watch?v=65YByC0FWLw",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
